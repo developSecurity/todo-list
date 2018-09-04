@@ -1,1 +1,1 @@
-export { default } from './Documents/todo-list/PageTemplate';
+export { default } from './PageTemplate';

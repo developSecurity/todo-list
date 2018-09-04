@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './PageTemplate.scss';
+import styles from './PageTemplate';
 import classNames from 'classnames/bind';
 
 const cx = classNames.bind(styles);
